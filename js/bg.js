@@ -14,9 +14,9 @@ function genRandom() {
 function init() {
     let randomNumber = genRandom();
     paintImage(randomNumber);
-    setInterval(() => {
-        randomNumber = genRandom();
-        paintImage(randomNumber);
-    }, 60000);
+    // setInterval(() => {
+    //     randomNumber = genRandom();
+    //     paintImage(randomNumber);
+    // }, 60000);
 }
 init();

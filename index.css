@@ -1,8 +1,30 @@
 body {
-    background-color: rgb(208, 208, 208);
     color: rgb(41, 57, 79);
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif,
         'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+    height: 100vh;
+}
+
+.weather-container {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 1%;
+    right: 1%;
+    color: white;
+}
+.temp-container svg {
+    font-size: 140%;
+    margin-right: 0.5rem;
+    margin-left: 1rem;
+}
+.temperature {
+    width: fit-content;
+    font-size: 150%;
+    font-weight: 600;
+}
+.place {
+    font-size: 100%;
 }
 
 .container {

@@ -11,7 +11,7 @@ function getTime() {
     const stringMinute = minute < 10 ? `0${minute}` : minute;
     const stringSecond = second < 10 ? `0${second}` : second;
 
-    clock.innerText = `${stringHour} : ${stringMinute} : ${stringSecond}`;
+    clock.innerText = `${stringHour} : ${stringMinute}`;
 }
 
 function init() {
