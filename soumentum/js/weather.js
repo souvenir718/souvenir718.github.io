@@ -37,17 +37,18 @@ function getWeather(lat, lon) {
             const place = json.name;
             const iconName = setIcon(json.weather[0].main);
 
-            const icon = document.createElement('i');
-            icon.classList.add('fas');
-            icon.classList.add(iconName);
-            console.log(icon);
-            tempContainer.prepend(icon);
+            // const icon = document.createElement('i');
+            // icon.classList.add('fas');
+            // icon.classList.add(iconName);
+            // tempContainer.prepend(icon);
+            // console.log(icon);
             // const img = new Image();
             // const icon = json.weather[0].icon;
-            // img.src = `http://openweathermap.org/img/wn/${icon}@2x.png`;
+            // img.src = `http://openweathermap.org/img/wn/${icon}.png`;
             // console.log(img);
-            // weatherContainer.prepend(img);
-            temperature.innerHTML = `${temp}°`;
+            // tempContainer.prepend(img);
+            temperature.innerHTML = `<i class="fas ${iconName}"></i> ${temp}°`;
+            console.log(temperature);
             placeText.innerHTML = `${place}`;
         });
 }
