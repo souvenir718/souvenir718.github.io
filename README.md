@@ -66,6 +66,20 @@
 
 
 
+### 🎁 6. SOUPEDIA
+
+**🎈 노마드코더 Course 중 React JS로 영화 웹 서비스 만들기**
+
+📃 **SOUPEDIA**은 강의를 통한 영화 웹 서비스를 제작하였습니다. 강의 이후 TMDB API로 변경 및 왓챠피디아를 보며 리팩토링을 진행했습니다.  영화 리스트를 볼 수 있고 해당 영화에 대한 상세 페이지를 구현했습니다!
+
+**🕒 개발기간 : 2021.01.25 ~ 2021.02.03**
+
+**📢 [배포주소](https://souvenir718.github.io/soupedia/)** **🔗 [소개 페이지](https://github.com/souvenir718/SOUPEDIA)**
+
+
+
+
+
 
 
 
