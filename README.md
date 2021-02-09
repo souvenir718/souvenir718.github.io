@@ -78,6 +78,16 @@
 
 
 
+### 🎁 7. souTodo
+
+**🎈나만의 Todo List 만들어보기**
+
+📃 **souTodo**는 `vanilla JS`를 사용하여 만든 웹 어플리케이션입니다. 나만의 `Todo`를 작성하고 관리할 수 있게 구현했습니다. `Local Storage`를 사용하여 기록한 `Todo`를 보관할 수 있게 하였습니다!
+
+**🕒 개발기간 : 2021.02.05 ~ 2021.02.09**
+
+**📢 [배포주소](https://souvenir718.github.io/souTodo/)** **🔗 [소개 페이지](https://github.com/souvenir718/souTodo)**
+
 
 
 
