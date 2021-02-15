@@ -1,25 +1,19 @@
-import logo from './logo.svg';
 import './App.css';
+import Left from './components/Left';
+import Right from './components/Right';
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    return (
+        <div className="container">
+            <div className="contents">
+                <Left />
+            </div>
+            <div className="center-bar"></div>
+            <div className="contents">
+                <Right />
+            </div>
+        </div>
+    );
 }
 
 export default App;
