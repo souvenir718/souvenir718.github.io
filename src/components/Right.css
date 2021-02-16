@@ -1,0 +1,22 @@
+.right-container {
+    padding-left: 2rem;
+    padding-top: 2rem;
+}
+
+.content {
+    display: flex;
+    min-height: 8rem;
+    flex-direction: row;
+    margin-bottom: 2rem;
+}
+
+.category {
+    font-weight: bolder;
+    font-size: 1.8rem;
+}
+
+.content-desc {
+    margin-left: 8rem;
+    font-size: 1.1rem;
+    line-height: 1.8rem;
+}
