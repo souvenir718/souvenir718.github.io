@@ -27,7 +27,7 @@
 
 **🕒 개발기간 : 2020.09.15 ~ 2020.12.04**
 
-**🔗 [소개 페이지](https://github.com/daily-101/daily-101-docs)**
+**🔗 [소개 페이지](https://github.com/daily-101/daily-101-docs/blob/main/README.md)**
 
 
 
