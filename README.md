@@ -77,7 +77,7 @@
 
 **🕒 개발기간 : 2021.01.25 ~ 2021.02.03**
 
-**📢 [배포주소](https://souvenir718.github.io/soupedia/)** **🔗 [소개 페이지](https://github.com/souvenir718/SOUPEDIA)**
+**📢 [배포주소](https://souvenir718.github.io/SOUPEDIA/)** **🔗 [소개 페이지](https://github.com/souvenir718/SOUPEDIA)**
 
 
 
