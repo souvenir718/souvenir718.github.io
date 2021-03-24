@@ -108,5 +108,17 @@
 
 
 
+### 🎁 9. souTodo(ver.React)
+
+**🎈나만의 Todo List 만들어보기(ver.React)**
+
+📃 **souTodo(ver.React)**는 기존의 `vanilla JS`로 만들어진 `souTodo`를 `React`를 사용하여 만든 웹 어플리케이션입니다. 나만의 `Todo`를 작성하고 관리할 수 있게 구현했습니다. `Local Storage`를 사용하여 기록한 `Todo`를 `Redux toolkit`을 이용하여 상태관리할 수 있게 하였습니다!
+
+**🕒 개발기간 : 2021.02.18 ~ 2021.03.25**
+
+**📢 [배포주소](https://github.com/souvenir718/souTodo-react)** **🔗 [소개 페이지](https://souvenir718.github.io/souTodo-react/)**
+
+
+
 
 
