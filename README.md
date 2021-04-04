@@ -116,7 +116,7 @@
 
 **🕒 개발기간 : 2021.02.18 ~ 2021.03.25**
 
-**📢 [배포주소](https://github.com/souvenir718/souTodo-react)** **🔗 [소개 페이지](https://souvenir718.github.io/souTodo-react/)**
+**📢 [배포주소](https://souvenir718.github.io/souTodo-react/)** **🔗 [소개 페이지](https://github.com/souvenir718/souTodo-react)**
 
 
 
