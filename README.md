@@ -13,7 +13,9 @@
 **🕒 개발기간 : 2020.08.14 ~ 2020.08.19**
 
 **📢 [배포주소](https://souvenir718.github.io/SuzyStar/)** **🔗 [소개 페이지](https://github.com/souvenir718/SuzyStar)**
+
 <br/>
+
 ### 🎁 2. daily 101
 
 **🎈 클라우드를 활용한 MSA 전문가 과정(멀티캠퍼스) - Final Project로 진행**
@@ -25,7 +27,9 @@
 **🕒 개발기간 : 2020.09.15 ~ 2020.12.04**
 
 **🔗 [소개 페이지](https://github.com/daily-101/daily-101-docs/blob/main/README.md)**
+
 <br/>
+
 ### 🎁 3. souvies
 
 **🎈 노마드코더 Course 중 React Native를 이용한 클론코딩 프로젝트 진행**
@@ -35,7 +39,9 @@
 **🕒 개발기간 : 2020.10.25 ~ 2020.11.13**
 
 **🔗 [소개 페이지](https://github.com/souvenir718/souvies)**
+
 <br/>
+
 ### 🎁 4. paintjs
 
 **🎈 노마드코더 Course 중 Vanilla JS를 이용한 그림판 프로젝트 진행**
@@ -45,7 +51,9 @@
 **🕒 개발기간 : 2021.01.03 ~ 2021.01.24**
 
 **📢 [배포주소](https://souvenir718.github.io/paintjs/)** **🔗 [소개 페이지](https://github.com/souvenir718/paintjs)**
+
 <br/>
+
 ### 🎁 5. soumentum
 
 **🎈 노마드코더 Course 중 Vanilla JS를 이용한 momentum 프로젝트 진행**
@@ -55,7 +63,9 @@
 **🕒 개발기간 : 2021.01.10 ~ 2021.01.24**
 
 **📢 [배포주소](https://souvenir718.github.io/soumentum/)** **🔗 [소개 페이지](https://github.com/souvenir718/chrome_app)**
+
 <br/>
+
 ### 🎁 6. SOUPEDIA
 
 **🎈 노마드코더 Course 중 React JS로 영화 웹 서비스 만들기**
@@ -65,7 +75,9 @@
 **🕒 개발기간 : 2021.01.25 ~ 2021.02.03**
 
 **📢 [배포주소](https://souvenir718.github.io/SOUPEDIA/)** **🔗 [소개 페이지](https://github.com/souvenir718/SOUPEDIA)**
+
 <br/>
+
 ### 🎁 7. souTodo
 
 **🎈나만의 Todo List 만들어보기**
@@ -75,7 +87,9 @@
 **🕒 개발기간 : 2021.02.05 ~ 2021.02.09**
 
 **📢 [배포주소](https://souvenir718.github.io/souTodo/)** **🔗 [소개 페이지](https://github.com/souvenir718/souTodo)**
+
 <br/>
+
 ### 🎁 8. apollo movies
 
 **🎈노마드코더 Course 중 React, Apollo and GraphQL을 이용한 영화 웹 서비스 만들기**
@@ -85,7 +99,9 @@
 **🕒 개발기간 : 2021.02.18 ~ 2021.02.22**
 
 **🔗 [소개 페이지](https://github.com/souvenir718/apollo_movies)**
+
 <br/>
+
 ### 🎁 9. souTodo(ver.React)
 
 **🎈나만의 Todo List 만들어보기(ver.React)**
@@ -95,7 +111,9 @@
 **🕒 개발기간 : 2021.02.18 ~ 2021.03.25**
 
 **📢 [배포주소](https://souvenir718.github.io/souTodo-react/)** **🔗 [소개 페이지](https://github.com/souvenir718/souTodo-react)**
+
 <br/>
+
 ### 🎁 10. paintjs(ver.React)
 
 **🎈  Vanilla JS를 이용한 그림판 프로젝트(ver.React)**
@@ -105,5 +123,7 @@
 **🕒 개발기간 : 2021.07.24 ~ 2021.07.27**
 
 **📢 [배포주소](https://souvenir718.github.io/paintJS_React/)** **🔗 [소개 페이지](https://github.com/souvenir718/paintJS_React)**
+
+<br/>
 
 
